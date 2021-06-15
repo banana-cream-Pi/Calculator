@@ -13,7 +13,7 @@ int main()
     cout << "+----Operators:----+"<< endl;
     cout << "   +, -, /, *, ^    "<< endl;
     cout << "+----No spaces-----+"<< endl << endl;
-    while(true){//loop forever till broek
+    while(true){//loop forever till break
     std::string calc;//string that will store the input from the user
 
     cout << "Enter calculation: ";//prompts user
